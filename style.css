@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    background-color: pink;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 1rem;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 10px;
+    color: grey;
+   
+}
